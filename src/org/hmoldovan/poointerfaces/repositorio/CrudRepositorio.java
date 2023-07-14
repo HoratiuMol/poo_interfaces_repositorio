@@ -1,2 +1,13 @@
-package org.hmoldovan.poointerfaces.repositorio;public interface CrudRepositorio {
+package org.hmoldovan.poointerfaces.repositorio;
+
+import org.hmoldovan.poointerfaces.modelo.Cliente;
+
+import java.util.List;
+
+public interface CrudRepositorio {
+    List<Cliente> listar();
+    Cliente porId(Integer id);
+    void  crear(Cliente cliente);
+    void editar(Cliente cliente);
+    void eliminar(Integer id);
 }

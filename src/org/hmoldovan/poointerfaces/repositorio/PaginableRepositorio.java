@@ -1,2 +1,9 @@
-package org.hmoldovan.poointerfaces.repositorio;public interface PaginableRepositorio {
+package org.hmoldovan.poointerfaces.repositorio;
+
+import org.hmoldovan.poointerfaces.modelo.Cliente;
+
+import java.util.List;
+
+public interface PaginableRepositorio {
+    List<Cliente> listar(int desde, int hasta);
 }
