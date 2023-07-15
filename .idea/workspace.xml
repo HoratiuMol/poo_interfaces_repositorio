@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="729195c8-4b26-439a-9a81-ad62c0e9968e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/hmoldovan/generics/EjemploGenericos.java" afterDir="false" />
+    <list default="true" id="729195c8-4b26-439a-9a81-ad62c0e9968e" name="Changes" comment="ffsafa">
+      <change afterPath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/modelo/ClientePremium.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/EjemploRepositorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/EjemploRepositorio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/modelo/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/modelo/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/repositorio/ClienteListRepositorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/repositorio/ClienteListRepositorio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/repositorio/CrudRepositorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/repositorio/CrudRepositorio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/repositorio/Direccion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/repositorio/Direccion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/repositorio/OrdenableRepositorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/repositorio/OrdenableRepositorio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/repositorio/PaginableRepositorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hmoldovan/poointerfaces/repositorio/PaginableRepositorio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/hmoldovan/generics/EjemploGenericos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hmoldovan/generics/EjemploGenericos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +88,14 @@
       <option name="presentableId" value="Default" />
       <updated>1689093247945</updated>
     </task>
+    <task id="LOCAL-00001" summary="ffsafa">
+      <created>1689356711834</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1689356711834</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +108,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ffsafa" />
+    <option name="LAST_COMMIT_MESSAGE" value="ffsafa" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/poo_interfaces_repositorio$EjemploRepositorio.ic" NAME="EjemploRepositorio Coverage Results" MODIFIED="1689098223240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
